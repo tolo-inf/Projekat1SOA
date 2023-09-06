@@ -1,0 +1,188 @@
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\appsettings.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.exe
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.deps.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.runtimeconfig.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.pdb
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.csproj.AssemblyReference.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.AssemblyInfoInputs.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.AssemblyInfo.cs
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.csproj.CoreCompileInputs.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets\msbuild.GraphqlService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets\msbuild.build.GraphqlService.props
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GraphqlService.props
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GraphqlService.props
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\scopedcss\bundle\GraphqlService.styles.css
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.csproj.CopyComplete
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\refint\GraphqlService.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.pdb
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.genruntimeconfig.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\obj\Debug\net6.0\ref\GraphqlService.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\GreenDonut.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Authorization.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Execution.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Fetching.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Utilities.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Validation.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Data.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\appsettings.Development.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\appsettings.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.exe
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.deps.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.runtimeconfig.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\GraphqlService.pdb
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\GreenDonut.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Authorization.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Data.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Execution.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Fetching.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Utilities.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\HotChocolate.Validation.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Humanizer.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\MySql.Data.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\System.Text.Json.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.csproj.AssemblyReference.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.AssemblyInfoInputs.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.AssemblyInfo.cs
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.csproj.CoreCompileInputs.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.MvcApplicationPartsAssemblyInfo.cs
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.MvcApplicationPartsAssemblyInfo.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets\msbuild.GraphqlService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets\msbuild.build.GraphqlService.props
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GraphqlService.props
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GraphqlService.props
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\scopedcss\bundle\GraphqlService.styles.css
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.csproj.CopyComplete
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\refint\GraphqlService.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.pdb
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\GraphqlService.genruntimeconfig.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GraphqlService\obj\Debug\net6.0\ref\GraphqlService.dll

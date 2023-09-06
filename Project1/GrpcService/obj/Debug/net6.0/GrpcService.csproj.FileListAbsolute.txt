@@ -1,0 +1,154 @@
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.csproj.AssemblyReference.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.AssemblyInfoInputs.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.AssemblyInfo.cs
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.csproj.CoreCompileInputs.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\appsettings.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\GrpcService.exe
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\GrpcService.deps.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\GrpcService.runtimeconfig.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\GrpcService.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\GrpcService.pdb
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\staticwebassets\msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\staticwebassets\msbuild.build.GrpcService.props
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GrpcService.props
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GrpcService.props
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\scopedcss\bundle\GrpcService.styles.css
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.csproj.CopyComplete
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\refint\GrpcService.dll
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.pdb
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\GrpcService.genruntimeconfig.cache
+C:\Users\vukad\OneDrive\Desktop\SoaProject1\Project1\GrpcService\obj\Debug\net6.0\ref\GrpcService.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.csproj.AssemblyReference.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\refint\GrpcService.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.pdb
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.AssemblyInfoInputs.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.AssemblyInfo.cs
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.csproj.CoreCompileInputs.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.MvcApplicationPartsAssemblyInfo.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\appsettings.Development.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\appsettings.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\GrpcService.exe
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\GrpcService.deps.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\GrpcService.runtimeconfig.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\GrpcService.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\GrpcService.pdb
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Humanizer.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\MySql.Data.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\System.CodeDom.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\System.Text.Json.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\staticwebassets\msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\staticwebassets\msbuild.build.GrpcService.props
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GrpcService.props
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GrpcService.props
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\scopedcss\bundle\GrpcService.styles.css
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.csproj.CopyComplete
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\GrpcService.genruntimeconfig.cache
+C:\Projekat1 SOA\Projekat1SOA\Project1\GrpcService\obj\Debug\net6.0\ref\GrpcService.dll

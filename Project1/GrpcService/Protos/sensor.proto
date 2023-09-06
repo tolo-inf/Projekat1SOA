@@ -1,0 +1,28 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+
+package sensor;
+
+service Sensor {
+	rpc GetAll(Empty) returns (stream SensorVal);
+	rpc GetById(SensorValId) returns (SensorVal);
+	rpc AddValue(SensorVal) returns (SensorVal);
+	rpc UpdateValue(SensorVal) returns (SensorVal);
+	rpc DeleteValue(SensorValId) returns (Empty);
+}
+
+message Empty {}
+
+message SensorValId {
+	int32 Id = 1;
+}
+
+message SensorVal {
+	int32 Id = 1;
+	string Date = 2;
+	double Temperature = 3;
+	double Humidity = 4;
+	double Light = 5;
+	double CO2 = 6;
+}

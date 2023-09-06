@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7OpSEoa4wrAvyDzHa6DXXn1Rz6egro272tyWpKKNpbo=",
+  "Source": "GraphqlService",
+  "BasePath": "_content/GraphqlService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

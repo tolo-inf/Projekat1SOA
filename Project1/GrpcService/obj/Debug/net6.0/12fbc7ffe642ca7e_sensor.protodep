@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Sensor.cs \
+obj\Debug\net6.0\Protos/SensorGrpc.cs: Protos/sensor.proto
